@@ -1,6 +1,7 @@
 # Hack & Slash II
 
 This project is a step-by-step implementation from a playlist by 'RyiSnow'. I would recommend him if any are interested in 2D game dev.
+
 link: https://www.youtube.com/watch?v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
 
 This is the second half of the game. It has more game features implemented to convert it from a treasure hunting game
