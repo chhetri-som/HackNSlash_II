@@ -26,5 +26,5 @@ However, there are a few more things that I would like to implement which I will
 feel better and make the game feel more complete:
 - Parry system (I have implemented a shield system however it has not function yet other than just appearance)
 - Trading system (You can obtain coins in the game but the currency has no implementation as of yet)
-- Overall visual graphics (The game looks very basic graphically so i wanted to make it look more appealling visually)
+- Overall visual graphics (Possibly increase pixel size to 48x48 for better visual)
 - Multiple maps (The game currently has only one 60x60 map)
