@@ -28,3 +28,14 @@ feel better and make the game feel more complete:
 - Trading system (You can obtain coins in the game but the currency has no implementation as of yet)
 - Overall visual graphics (Possibly increase pixel size to 48x48 for better visual)
 - Multiple maps (The game currently has only one 60x60 map)
+
+## Game Demo (split in two parts cus it difficult to embed longer videos in github)
+### Demo 1
+
+https://github.com/user-attachments/assets/a5ab63cc-ab8a-4cdd-b4c2-d6ede01065bc
+
+
+### Demo 2
+
+
+https://github.com/user-attachments/assets/c1c0de8c-0f19-4a79-9107-cdd1f0af804e
